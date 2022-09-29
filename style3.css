@@ -1,0 +1,13 @@
+body{
+    background: rgb(47, 186, 232);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+p{
+    display: block;
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+    font-family: 'Bungee Spice', cursive;
+}
